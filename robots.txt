@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://weityri.github.io/sitemap.html.gz
+Sitemap: https://weityri.github.io/app/sitemap.html.gz
+Sitemap: https://weityri.github.io/assets/sitemap.html.gz
+Sitemap: https://weityri.github.io/css/sitemap.html.gz
+Sitemap: https://weityri.github.io/data/sitemap.html.gz
+Sitemap: https://weityri.github.io/includes/sitemap.html.gz
+Sitemap: https://weityri.github.io/item/sitemap.html.gz
+Sitemap: https://weityri.github.io/src/sitemap.html.gz
